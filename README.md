@@ -1,6 +1,6 @@
 # 🎬 Text Sentiment Classification – Movie Reviews
 
-![Project Thumbnail](thumbnail.png)
+<img src="thumbnail.png" width="600"/>
 
 This project applies machine learning techniques to classify movie reviews from IMDb as **positive** or **negative**.
 
